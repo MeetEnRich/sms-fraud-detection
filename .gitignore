@@ -20,8 +20,8 @@ env/
 *.ipynb_checkpoints
 
 # Data files — do not push raw or processed data
-data/
-*.csv
+# data/
+# *.csv
 
 # Trained model artifacts
 models/
